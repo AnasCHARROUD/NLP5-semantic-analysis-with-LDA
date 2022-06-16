@@ -1,8 +1,8 @@
 # NLP5-semantic-analysis-with-LDA
-Extracting relevant information from text using LDA semantic analysis
+✔️ Extracting relevant information from text using LDA semantic analysis
 
 
-Steps performed:
+✔️ Steps performed:
 
 1- Data Pre-processing (stremming, tocknezing, cleaning, Removing stopword)
 
@@ -11,7 +11,7 @@ Steps performed:
 3- Running LDA
 
 
-We have tried to ensure:
+✔️ We have tried to ensure:
 
 1- What is the Dominant topic and its percentage contribution in each document
 
@@ -31,4 +31,4 @@ We have tried to ensure:
 
 9- showing Prediction
 
-Note that several comments exist in the source code 
+✔️ Note that several comments exist in the source code 
